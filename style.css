@@ -17,13 +17,21 @@ body {
 
 p {
   color: #8976a8;
+  font-family: dosis;
+  font-weight: 700;
 }
 h1 {
   color: #8976a8;
+  font-family: dosis;
+  font-weight: 800;
+  text-decoration: underline;
 }
 
 h3 {
   color: #8976a8;
+  font-family: dosis;
+  font-weight: 800;
+  text-decoration: underline;
 }
 
 
@@ -39,4 +47,6 @@ iframe {
 
 a {
   color: #65baa8;
+  font-family: dosis;
+  font-weight: 700;
 }
