@@ -1,0 +1,16 @@
+body {
+  background-color:#faeaff;
+}
+
+h1 {
+  color: #8976a8;
+  font-family: dosis;
+  font-weight: 800;
+  text-decoration: underline;
+}
+
+p {
+  color: #8976a8;
+  font-family: dosis;
+  font-weight: 700;
+}
